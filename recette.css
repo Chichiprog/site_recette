@@ -49,6 +49,7 @@
             div.categorie{
                 margin-bottom: 0px;
                 margin-top: 0px;
+                overflow: visible;
             }
             div.separateur {
                 height: 1px;
@@ -142,4 +143,6 @@
             table.preparation tr{
                 height: 40px;
             }
-           
+           div.prepa_ingredients{
+               overflow: auto;
+           }
